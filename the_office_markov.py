@@ -1,6 +1,6 @@
 import markovify, csv, random, tweepy
 from os import environ
-
+print(environ)
 PREFERRED_FOR_RATIO = 35 
 
 PREFERRED_FOR = {
